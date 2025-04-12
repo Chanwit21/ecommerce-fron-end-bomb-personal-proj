@@ -27,7 +27,7 @@ function Footer() {
             <h4 className="mb-3">About the Shop</h4>
             <p className="text-sm leading-relaxed">
               Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. It has been the industry's standard dummy text since the
+              industry. It has been the industry&aposs standard dummy text since the
               1500s, when an unknown printer scrambled type to make a specimen
               book.
             </p>
